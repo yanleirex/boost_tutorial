@@ -1,0 +1,1 @@
+add_executable(any main.cpp ../make_shared/main.cpp ../thread/main.cpp)
